@@ -2,6 +2,9 @@
 FB native ads in recycler view android java
 
 
+
+![alt text](https://github.com/tirumala007/FaceBookNativeAdsInRecyclerViewAndoidJava/blob/master/screenshots/Screenshot_2021-03-27-15-43-06-94.png)
+
 in Main Activity, 
 
  //making the model list to pass to the adapter,  you can follow the same below step for firebase projects also

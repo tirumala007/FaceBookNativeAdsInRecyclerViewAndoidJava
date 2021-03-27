@@ -1,6 +1,7 @@
 # FaceBookNativeAdsInRecyclerViewAndoidJava
 FB native ads in recycler view android java
 
+
 in Main Activity, 
 
  //making the model list to pass to the adapter,  you can follow the same below step for firebase projects also
@@ -85,7 +86,7 @@ in Main Activity,
     //android:name=".MyAppliation"
 
 
-    //this step is for version 24, mine  phone's is  23,so i don't need it
+    //this step is for version 24 or above, mine  phone's is  23,so i don't need it
     //step 4->  create a xml file in RES
     // android:networkSecurityConfig="@xml/network_security_config"
     
